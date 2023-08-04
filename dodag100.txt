@@ -1,0 +1,46 @@
+Total number of nodes : 10
+Total number of packets generated: 100
+
+Node 1 generated packets = 0
+Node 1 received packets = 100
+Node 1 sent packets = 0
+
+Node 2 generated packets = 11
+Node 2 received packets = 57
+Node 2 sent packets = 68
+
+Node 3 generated packets = 10
+Node 3 received packets = 6
+Node 3 sent packets = 16
+
+Node 4 generated packets = 15
+Node 4 received packets = 12
+Node 4 sent packets = 27
+
+Node 5 generated packets = 9
+Node 5 received packets = 10
+Node 5 sent packets = 19
+
+Node 6 generated packets = 13
+Node 6 received packets = 0
+Node 6 sent packets = 13
+
+Node 7 generated packets = 12
+Node 7 received packets = 0
+Node 7 sent packets = 12
+
+Node 8 generated packets = 6
+Node 8 received packets = 0
+Node 8 sent packets = 6
+
+Node 9 generated packets = 14
+Node 9 received packets = 0
+Node 9 sent packets = 14
+
+Node 10 generated packets = 10
+Node 10 received packets = 0
+Node 10 sent packets = 10
+
+Total number of packets delivered to root node : 100
+Overall_delivery_ratio is : 100.0%
+Propagation delay is : 100ms

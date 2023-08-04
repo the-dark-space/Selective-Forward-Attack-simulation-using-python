@@ -1,0 +1,50 @@
+Total number of nodes : 10
+Total number of packets generated: 1000
+
+Node 1 generated packets = 0
+Node 1 received packets = 876
+Node 1 sent packets = 0
+
+Node 2 generated packets = 122
+Node 2 received packets = 276
+Node 2 sent packets = 398
+
+Node 3 generated packets = 115
+Node 3 received packets = 82
+Node 3 sent packets = 197
+
+Node 4 generated packets = 122
+Node 4 received packets = 0
+Node 4 sent packets = 82
+
+Node 5 generated packets = 96
+Node 5 received packets = 117
+Node 5 sent packets = 213
+
+Node 6 generated packets = 112
+Node 6 received packets = 0
+Node 6 sent packets = 79
+
+Node 7 generated packets = 117
+Node 7 received packets = 0
+Node 7 sent packets = 117
+
+Node 8 generated packets = 121
+Node 8 received packets = 108
+Node 8 sent packets = 178
+
+Node 9 generated packets = 108
+Node 9 received packets = 0
+Node 9 sent packets = 108
+
+Node 10 generated packets = 87
+Node 10 received packets = 0
+Node 10 sent packets = 87
+
+Node 4 is malicious with packet dropping ratio of 32.78688524590164%
+Node 6 is malicious with packet dropping ratio of 29.464285714285715%
+Node 8 is malicious with packet dropping ratio of 22.270742358078603%
+
+Total number of packets delivered to root node : 876
+Overall_delivery_ratio is : 87.6%
+Propagation delay is : 1000ms

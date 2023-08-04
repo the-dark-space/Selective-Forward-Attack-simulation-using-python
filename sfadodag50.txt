@@ -1,0 +1,212 @@
+Total number of nodes : 50
+Total number of packets generated: 1000
+
+Node 1 generated packets = 0
+Node 1 received packets = 830
+Node 1 sent packets = 0
+
+Node 2 generated packets = 20
+Node 2 received packets = 565
+Node 2 sent packets = 585
+
+Node 3 generated packets = 20
+Node 3 received packets = 314
+Node 3 sent packets = 334
+
+Node 4 generated packets = 18
+Node 4 received packets = 149
+Node 4 sent packets = 167
+
+Node 5 generated packets = 26
+Node 5 received packets = 284
+Node 5 sent packets = 219
+
+Node 6 generated packets = 17
+Node 6 received packets = 20
+Node 6 sent packets = 37
+
+Node 7 generated packets = 21
+Node 7 received packets = 186
+Node 7 sent packets = 207
+
+Node 8 generated packets = 19
+Node 8 received packets = 133
+Node 8 sent packets = 152
+
+Node 9 generated packets = 17
+Node 9 received packets = 0
+Node 9 sent packets = 17
+
+Node 10 generated packets = 20
+Node 10 received packets = 128
+Node 10 sent packets = 102
+
+Node 11 generated packets = 22
+Node 11 received packets = 85
+Node 11 sent packets = 107
+
+Node 12 generated packets = 25
+Node 12 received packets = 0
+Node 12 sent packets = 25
+
+Node 13 generated packets = 29
+Node 13 received packets = 56
+Node 13 sent packets = 85
+
+Node 14 generated packets = 18
+Node 14 received packets = 24
+Node 14 sent packets = 42
+
+Node 15 generated packets = 35
+Node 15 received packets = 90
+Node 15 sent packets = 125
+
+Node 16 generated packets = 22
+Node 16 received packets = 17
+Node 16 sent packets = 39
+
+Node 17 generated packets = 20
+Node 17 received packets = 0
+Node 17 sent packets = 20
+
+Node 18 generated packets = 35
+Node 18 received packets = 71
+Node 18 sent packets = 106
+
+Node 19 generated packets = 23
+Node 19 received packets = 16
+Node 19 sent packets = 39
+
+Node 20 generated packets = 21
+Node 20 received packets = 16
+Node 20 sent packets = 22
+
+Node 21 generated packets = 24
+Node 21 received packets = 29
+Node 21 sent packets = 53
+
+Node 22 generated packets = 22
+Node 22 received packets = 13
+Node 22 sent packets = 35
+
+Node 23 generated packets = 17
+Node 23 received packets = 0
+Node 23 sent packets = 17
+
+Node 24 generated packets = 15
+Node 24 received packets = 46
+Node 24 sent packets = 61
+
+Node 25 generated packets = 16
+Node 25 received packets = 0
+Node 25 sent packets = 13
+
+Node 26 generated packets = 17
+Node 26 received packets = 0
+Node 26 sent packets = 17
+
+Node 27 generated packets = 16
+Node 27 received packets = 13
+Node 27 sent packets = 29
+
+Node 28 generated packets = 15
+Node 28 received packets = 0
+Node 28 sent packets = 15
+
+Node 29 generated packets = 22
+Node 29 received packets = 23
+Node 29 sent packets = 45
+
+Node 30 generated packets = 23
+Node 30 received packets = 0
+Node 30 sent packets = 23
+
+Node 31 generated packets = 16
+Node 31 received packets = 58
+Node 31 sent packets = 74
+
+Node 32 generated packets = 16
+Node 32 received packets = 15
+Node 32 sent packets = 31
+
+Node 33 generated packets = 15
+Node 33 received packets = 0
+Node 33 sent packets = 15
+
+Node 34 generated packets = 16
+Node 34 received packets = 0
+Node 34 sent packets = 16
+
+Node 35 generated packets = 19
+Node 35 received packets = 18
+Node 35 sent packets = 22
+
+Node 36 generated packets = 27
+Node 36 received packets = 0
+Node 36 sent packets = 27
+
+Node 37 generated packets = 26
+Node 37 received packets = 0
+Node 37 sent packets = 26
+
+Node 38 generated packets = 23
+Node 38 received packets = 0
+Node 38 sent packets = 23
+
+Node 39 generated packets = 18
+Node 39 received packets = 0
+Node 39 sent packets = 18
+
+Node 40 generated packets = 18
+Node 40 received packets = 0
+Node 40 sent packets = 18
+
+Node 41 generated packets = 20
+Node 41 received packets = 0
+Node 41 sent packets = 20
+
+Node 42 generated packets = 25
+Node 42 received packets = 0
+Node 42 sent packets = 25
+
+Node 43 generated packets = 16
+Node 43 received packets = 0
+Node 43 sent packets = 16
+
+Node 44 generated packets = 13
+Node 44 received packets = 0
+Node 44 sent packets = 13
+
+Node 45 generated packets = 14
+Node 45 received packets = 32
+Node 45 sent packets = 46
+
+Node 46 generated packets = 19
+Node 46 received packets = 13
+Node 46 sent packets = 32
+
+Node 47 generated packets = 16
+Node 47 received packets = 0
+Node 47 sent packets = 16
+
+Node 48 generated packets = 24
+Node 48 received packets = 0
+Node 48 sent packets = 24
+
+Node 49 generated packets = 13
+Node 49 received packets = 0
+Node 49 sent packets = 13
+
+Node 50 generated packets = 31
+Node 50 received packets = 0
+Node 50 sent packets = 31
+
+Node 5 is malicious with packet dropping ratio of 29.354838709677416%
+Node 10 is malicious with packet dropping ratio of 31.08108108108108%
+Node 20 is malicious with packet dropping ratio of 40.54054054054054%
+Node 25 is malicious with packet dropping ratio of 18.75%
+Node 35 is malicious with packet dropping ratio of 40.54054054054054%
+
+Total number of packets delivered to root node : 830
+Overall_delivery_ratio is : 83.0%
+Propagation delay is : 1000ms
